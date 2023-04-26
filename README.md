@@ -1,3 +1,3 @@
 # miprimerjuego
 
-juego de ahorcado con palabras obscenas
+juego de ahorcado
